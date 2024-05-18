@@ -53,12 +53,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 <h2 id="usage">💡 Utilização</h2>
 
-A aplicação RocketMovies está disponível para utilização [aqui](https://rocket-movies-app.netlify.app/).
-
 Você também pode instalá-la em sua máquina localmente. Para isso, clone o projeto, acesse a pasta, instale as dependências e inicie o servidor.
 
 ```
-$ git clone https://github.com/madalena-rocha/rocket-movies
+$ git clone https://github.com/darleyrodrigues/rocketmovies
 $ cd rocket-movies
 $ npm install
 $ npm run dev
@@ -72,4 +70,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ❤️ by Madalena 👋 [Me acompanhe nas redes sociais!](https://madalena-rocha.github.io/social-links/)
+Feito por Darley Rodrigues 👋 [Me acompanhe nas redes sociais!](https://www.linkedin.com/in/darleyrodrigues/)
